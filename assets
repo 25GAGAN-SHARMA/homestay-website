@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mountain View Homestay</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Mountain View Homestay</h1>
+  <p>Your peaceful stay in nature 🌿</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#rooms">Rooms</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Welcome to Mountain View Homestay, located in the heart of nature.
+    Enjoy a comfortable stay with delicious home-cooked food.
+  </p>
+</section>
+
+<section id="rooms">
+  <h2>Rooms & Pricing</h2>
+  <ul>
+    <li>Deluxe Room – ₹2500/night</li>
+    <li>Standard Room – ₹1800/night</li>
+    <li>Family Room – ₹3500/night</li>
+  </ul>
+</section>
+
+<section id="gallery">
+  <h2>Gallery</h2>
+  <p>Add photos of your homestay here</p>
+</section>
+
+<section id="contact">
+  <h2>Contact & Booking</h2>
+  <p>📍 Location: Manali, Himachal Pradesh</p>
+  <p>📞 Phone: +91 9876543210</p>
+
+  <a class="btn" href="https://wa.me/919876543210" target="_blank">
+    Book on WhatsApp
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 Mountain View Homestay</p>
+</footer>
+
+</body>
+</html>
